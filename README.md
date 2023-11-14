@@ -1,12 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
 Hello, I am Quan K Nguyen, a math-built medical graduate, proudly Vietnamese. 
 
 I got my MD at [Hue University of Medicine and Pharmacy]([url](https://www.huemed-univ.edu.vn/)), Hue University (Vietnam); 
 currently doing research in a EHR-based cohort study, affiliating with [College of Health Sciences]([url](https://vinuni.edu.vn/college-of-health-sciences/)), VinUniversity (Hanoi, Vietnam). 
 
-# Current and prospective interests (and distractions!):
-###### using biostatistical methods to study the health patterns and causality
+# Current interests (and distractions!):
+##### using biostatistical methods to study the health patterns and causality
 ###### planning to master regression models, stochastic multi-state models, design and analyze clinical trials, and causal methods
 ###### writing blogs
 ###### playing guitars and singing
