@@ -3,7 +3,7 @@
 Hello, I am Quan K Nguyen, a math-built medical graduate, proudly Vietnamese. 
 
 I got my MD at [Hue University of Medicine and Pharmacy](https://www.huemed-univ.edu.vn/), Hue University (Vietnam);
-currently doing research in a EHR-based cohort study, affiliating with [College of Health Sciences]([url](https://vinuni.edu.vn/college-of-health-sciences/)), VinUniversity (Hanoi, Vietnam). 
+currently doing research in a EHR-based cohort study, affiliating with [College of Health Sciences](https://vinuni.edu.vn/college-of-health-sciences/), VinUniversity (Hanoi, Vietnam). 
 
 ## Current interests (and distractions!):
   * using biostatistical methods to study the health patterns and causality
@@ -25,10 +25,10 @@ ORC is where we
   * systematic reviews, 
   * heterogeneity in meta-analysis.
 
-You can check out my [Loops]([url](https://loop.frontiersin.org/people/1341250/overview)) and [ORCID]([url](https://orcid.org/my-orcid?orcid=0000-0002-3222-0978)) for potential collaboration.
+You can check out my [Loops](https://loop.frontiersin.org/people/1341250/overview) and [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-3222-0978) for potential collaboration.
 
 ## Volunteer
-Since 2018, I have been serving with honor as a coordinator and a senior writer and collaborator at the [Y Học Cộng Đồng]([url](https://yhoccongdong.com/profile/nguyenkhoiquan/)) (Health for the Community) NPO
+Since 2018, I have been serving with honor as a coordinator and a senior writer and collaborator at the [Y Học Cộng Đồng](https://yhoccongdong.com/profile/nguyenkhoiquan/) (Health for the Community) NPO
 * Written more than 100 articles
 ** enhance community health
 ** debate agaisnt fake news & conspiracy theories in health practice
