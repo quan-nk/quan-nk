@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello, how do you do? 👋
 
-Hello, I am Quan K Nguyen, a math-built medical graduate, proudly Vietnamese. 
+I am Quan K Nguyen, a math-built medical graduate, proudly Vietnamese. 
 
 I got my MD at [Hue University of Medicine and Pharmacy](https://www.huemed-univ.edu.vn/), Hue University (Vietnam);
 currently doing research in a EHR-based cohort study, affiliating with [College of Health Sciences](https://vinuni.edu.vn/college-of-health-sciences/), VinUniversity (Hanoi, Vietnam). 
