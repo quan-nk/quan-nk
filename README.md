@@ -2,7 +2,7 @@
 
 I am Quan K Nguyen, a math-built medical graduate, proudly Vietnamese. 
 
-I got my MD at [Hue University of Medicine and Pharmacy](https://www.huemed-univ.edu.vn/){:target="_blank"}, Hue University (Vietnam);
+I got my MD at <a href="https://www.huemed-univ.edu.vn/" target="_blank">Hue University of Medicine and Pharmacy</a>, Hue University (Vietnam);
 currently doing research in a EHR-based cohort study, affiliating with [College of Health Sciences](https://vinuni.edu.vn/college-of-health-sciences/), VinUniversity (Hanoi, Vietnam). 
 
 ## Current interests (and distractions!):
