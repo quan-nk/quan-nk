@@ -1,4 +1,4 @@
-## Hello, how do you do? 👋
+## Hello, you're doing good? 👋
 
 I am Quan K Nguyen, a math-built medical graduate, proudly Vietnamese. 
 
